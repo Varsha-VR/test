@@ -1,0 +1,3 @@
+Unstaging a staged file
+git reset HEAD <file>
+git restore --staged unstage.txt
